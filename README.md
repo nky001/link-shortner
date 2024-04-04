@@ -15,7 +15,7 @@ Create short, shareable links with ease using this simple link shortener. This p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/link-shortener.git
+   git clone https://github.com/nky001/link-shortener.git
 1. Install dependencies:
     `npm install`
 2. Set up MongoDB and update the MONGODB_URI in src/server.js.
